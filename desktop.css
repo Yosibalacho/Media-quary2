@@ -1,0 +1,33 @@
+#zoro{
+     width: 100px;
+     height: 100px;
+}
+#div1{ background-color: blue;
+      height: 20vh;
+      width: 30vw;
+}
+#div2{ 
+     background-color: green;
+     color: white;
+     height: 20vh;
+     width: 30vw;
+}
+#div3{
+     background-image:url(images/mountin.jpg);
+     background-size: cover;
+     background-position: center;
+     height: 40vh;
+     width: 50vw;
+}
+#div4{
+    height: 30vh;
+    width: 40vw;
+    background-color: blue;
+    border-radius: 50%;
+}
+#brain{
+      filter: blur(5px);
+}
+#links{
+       direction: rtl;
+}

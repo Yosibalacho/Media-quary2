@@ -1,0 +1,33 @@
+#zoro{
+      width: 30px;
+      height: 30px;
+}
+#div1{ background-color: red;
+    height: 20vh;
+      width: 30vw;
+}
+#div2{
+    background-color: green;
+     color: yellow;
+     height: 20vh;
+     width: 30vw;
+}
+#div3{
+    background-image: url(images/woods.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    width: 50vw;
+}
+#div4{ 
+    height: 30vh;
+    width: 40vw;
+     background-color: blue;
+   
+}
+#brain{
+     filter: grayscale(5);
+}
+#links{ display: flex;
+        flex-direction: column;
+}
